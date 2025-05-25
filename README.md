@@ -1,4 +1,2 @@
 # Project_managment
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+![diagram (1)](https://github.com/user-attachments/assets/31d7042d-773a-41ca-99f4-7e67b0bb6b3b)
